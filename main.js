@@ -16,7 +16,7 @@ const board_segments = [
   { x: 1200, width: 200, color: "maroon" },
 ];
 
-// ----- Camera and Camera Animation.
+// ----- Camera and Camera Animation
 let camera_x = 0;
 let previous_time = 0;
 const camera_speed = 300;
